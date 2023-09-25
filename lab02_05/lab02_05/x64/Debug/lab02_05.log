@@ -1,0 +1,3 @@
+﻿  lab02_main.c
+F:\BGTU\Course3\Sem1\OS\Labs\lab2\lab02_05\lab02_05\lab02_main.c(8,16): warning C4013: getpid: нет определения; предполагается "extern" с возвратом типа "int"
+  lab02_05.vcxproj -> F:\BGTU\Course3\Sem1\OS\Labs\lab2\lab02_05\x64\Debug\lab02_05.exe
